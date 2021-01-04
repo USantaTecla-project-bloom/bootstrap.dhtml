@@ -1,0 +1,3 @@
+- PRIMERO, abrir carga.html
+- Es necesario conexión a internet.
+- He utilizado Bootstrap, animaciones y he realizado comprobaciones para no insertar datos vacíos.
